@@ -1,0 +1,31 @@
+h1{
+    font: Comic;
+    color:midnightblue;
+    text-align: center;
+}
+
+.Header{
+    background-color: crimson;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Item{
+    color: black;
+    Border: solid;
+}
+
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/c3/e7/f6/c3e7f6818629ce0121df28cbec1db33b.jpg");background-repeat:no-repeat;background-attachment: fixed;
+  }
